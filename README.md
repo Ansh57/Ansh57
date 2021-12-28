@@ -15,6 +15,13 @@ You can click the Preview link to take a look at your changes.
       <a href="/">  <img src="https://cdn-icons-png.flaticon.com/512/888/888847.png" width="50px" height="50px"> </a>
       <a href="/">  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50px" height="50px"> </a>
       <a href="/">  <img src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png" width="50px" height="50px"> </a>
+     <a href="/">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50px" height="50px"> </a>
+    
+     <!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
+<!-- in your body -->
+<i class="devicon-devicon-plain"></i>
     
     
     
