@@ -17,7 +17,8 @@ You can click the Preview link to take a look at your changes.
       <a href="/">  <img src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png" width="50px" height="50px"> </a>
      <a href="/">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50px" height="50px"> </a>
     <a href="/">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50px" height="50px"> </a> 
-      <a href="/">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/mongodb-original-wordmark.svg" width="50px" height="50px"> </a> 
+      <a href="/">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50px" height="50px"> </a> 
+      <a href="/">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50px" height="50px"> </a> 
      <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
