@@ -11,7 +11,10 @@ Ansh57/Ansh57 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 <h2>SKills</h2>
-     <a href="/">  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" height="30px"> </a>
-     <a href="/">  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" height="30px"> </a>
-     <a href="/">  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" height="30px"> </a>
+     <a href="/">  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="40px" height="40px"> </a>
+      <a href="/">  <img src="https://cdn-icons-png.flaticon.com/512/888/888847.png" width="40px" height="40px"> </a>
+      <a href="/">  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40px" height="40px"> </a>
+    
+    
+    
      
