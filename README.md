@@ -10,4 +10,8 @@
 Ansh57/Ansh57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1>SKills</h1>
+<h2>SKills</h2>
+     <a href="/">  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" height="30px"> </a>
+     <a href="/">  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" height="30px"> </a>
+     <a href="/">  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" height="30px"> </a>
+     
