@@ -25,7 +25,6 @@ You can click the Preview link to take a look at your changes.
      <h2>Github Stats: </h2>
      
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=anshtripathi01&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anshtripathi01&langs_count=5&theme=tokyonight)]()
 
 <h2>Connect With Me</h2>
      <a href="https://www.linkedin.com/in/anshtripathi01">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20px" height="20px"> </a>
